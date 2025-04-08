@@ -79,5 +79,6 @@ const styles= StyleSheet.create({
     incorrectAnswer: {
         fontWeight: 'bold',
         color: 'red',
+        textDecorationLine: 'line-through'
     },
 })
